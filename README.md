@@ -61,8 +61,7 @@ John
 
 (Questions will appear here)
 
-Correct! You got 5 points
-Wrong answer
+Correct! BASED ON THE NUMBER OF QUESTION +1
 
 ---
 
@@ -75,14 +74,7 @@ Wrong answer
 
 ---
 
-## Possible improvements
 
-* Show all student results at the end
-* Save results into a file
-* Add more questions
-* Add timer
-
----
 
 ## Author
 
